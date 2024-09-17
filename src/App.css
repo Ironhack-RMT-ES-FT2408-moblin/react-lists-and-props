@@ -3,3 +3,8 @@
   padding: 2rem;
   text-align: center;
 }
+
+.emoji {
+  font-size: 30px;
+  padding: 5px; 
+}

@@ -1,6 +1,7 @@
 
 import './App.css'
 import List from './components/List'
+import Menu from './components/Menu'
 
 function App() {
 
@@ -8,7 +9,9 @@ function App() {
     <>
       <h1>Aprendiendo más react</h1>
 
-      <List />
+      {/* <List /> */}
+
+      <Menu />
 
     </>
   )
